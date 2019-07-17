@@ -1,0 +1,37 @@
+ArtifactName; ArtifactStats; ArtifactRarity; ArtifactClass
+Gae Bolg;70;Legendary;Weapon
+Excalibur;65;Legendary;Weapon
+Kusanagi-no-tsurugi;60;Legendary;Weapon
+Parashu;50;Legendary;Weapon
+Armour of Achilles;60;Legendary;Armor
+Golden Coat of Chainmail;55;Legendary;Armor
+Babr-e Bayan;50;Legendary;Armor
+Helm of Terror;300;Legendary;Helmet
+Goswhit;280;Legendary;Helmet
+Helm of Hades;250;Legendary;Helmet
+Elemental Sword;15;Rare;Weapon
+Elemental Axe;15;Rare;Weapon
+Elemental Spear;15;Rare;Weapon
+Void Sword;20;Rare;Weapon
+Void Axe;20;Rare;Weapon
+Void Spear;20;Rare;Weapon
+Crimson Armor;18;Rare;Armor
+Chain mail Armor;15;Rare;Armor
+Void Armor;20;Rare;Armor
+Elemental Armor;16;Rare;Armor
+Crimson Helmet;150;Rare;Helmet
+Void Helmet;120;Rare;Helmet
+Guardian Helmet;80;Rare;Helmet
+Steel Sword;5;Common;Weapon
+Steel Axe;5;Common;Weapon
+Steel Spear;5;Common;Weapon
+Iron Sword;3;Common;Weapon
+Iron Axe;3;Common;Weapon
+Iron Spear;3;Common;Weapon
+Steel Armor;6;Common;Armor
+Iron Armor;5;Common;Armor
+Leather Armor;3;Common;Armor
+Cloth Armor;2;Common;Armor
+Cloth Helmet;15;Common;Helmet
+Steel Helmet;50;Common;Helmet
+Leather Helmet;30;Common;Helmet
